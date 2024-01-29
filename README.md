@@ -3,7 +3,7 @@
  </br><picture><img src = "giphy.gif" width = 50px></picture>
  [![](https://visitcount.itsvg.in/api?id=RashmiTharushika&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<h3>Undergraduate 👩‍🎓👩‍💻</h3>
+<!-- <h3>Undergraduate 👩‍🎓👩‍💻</h3> -->
 <h3>I am an undergraduate at the University of Kelaniya.</br>
   I do Computer Science and Statistics as my major subjects.</h3> </br> 
 
